@@ -155,7 +155,7 @@
   top: 0;
   left: 0;
   background-color: rgba(42, 15, 58, 0.3);
-  overflow: auto;
+  overflow-y: scroll;
 }
 .js-toDoList::-webkit-scrollbar {
   width: 30px;
