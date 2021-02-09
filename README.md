@@ -11,3 +11,10 @@ https://insanetodolist.netlify.app/
 ![1-main-page](./README_IMAGE/basic.png)
 ![2-description_page](./README_IMAGE/dudungdeungjang.png)
 ![3-description_page](./README_IMAGE/customScrollBar.png)
+
+
+# 오디오 및 gif 제어
+
+# 커스텀 스크롤바
+
+# 돔 컨트롤
