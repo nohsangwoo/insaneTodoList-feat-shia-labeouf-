@@ -176,6 +176,9 @@
   /* animation-duration: 1s;
   animation-name: slidein; */
   animation: slidein 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  font-size: 20px;
+  font-weight: 600;
+  color: #2e1443;
 }
 
 .js-toDoList > li > button {
